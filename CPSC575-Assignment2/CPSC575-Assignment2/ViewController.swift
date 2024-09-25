@@ -3,8 +3,8 @@
 //  CPSC575-Assignment2
 //  Team Momenta
 //  Created by
-//      Rei Tsunemi - 30121202
-//      Emir Avci   - 
+//      Rei Tsunemi        - 30121202
+//      Selcuk Emir Avci   - 30125151
 //  Date: 2024-09-25
 //
 
