@@ -27,6 +27,8 @@ class ViewController: UIViewController, UITextFieldDelegate {
     @IBOutlet weak var segmentedControl: UISegmentedControl!
     @IBOutlet weak var doSomethingButton: UIButton!
 
+    @IBOutlet weak var openNewPage: UIButton!
+        
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
@@ -104,7 +106,5 @@ class ViewController: UIViewController, UITextFieldDelegate {
         alert.addAction(UIAlertAction(title: "OK", style: .default, handler: nil))
         present(alert, animated: true, completion: nil)
     }
-    
-
 }
 
